@@ -26,7 +26,7 @@ Dataset Link: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
 ---
 
-## 📊 Exploratory Data Analysis
+## 📊 Result
 
 We used Seaborn's `pairplot` to visualize feature relationships, colored by species:
 
