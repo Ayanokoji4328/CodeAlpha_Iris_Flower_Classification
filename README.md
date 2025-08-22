@@ -38,15 +38,7 @@ We used Seaborn's `pairplot` to visualize feature relationships, colored by spec
   <img src="download.png" alt="Iris Pairplot" width="600"/>
 </p>
 
----
 
-## 🧪 Model Performance
-
-- **Model Used**: Logistic Regression
-- **Test Accuracy**: ~97%
-- **Evaluation Metrics**: Classification report and confusion matrix
-
----
 
 
 
