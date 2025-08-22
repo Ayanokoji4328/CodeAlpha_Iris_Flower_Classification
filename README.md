@@ -7,11 +7,6 @@ This project demonstrates the application of supervised machine learning to clas
 ## 🎯 Task Objectives
 
 ✔️ Use measurements of Iris flowers (*setosa*, *versicolor*, *virginica*) as input data  
-✔️ Train a machine learning model to classify the species  
-✔️ Use libraries like **Scikit-learn** for dataset access and model building  
-✔️ Evaluate the model’s accuracy and performance on test data  
-✔️ Understand basic **classification concepts** in machine learning
-
 ---
 
 ## 📘 Dataset Overview
