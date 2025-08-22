@@ -26,16 +26,6 @@ Dataset Link: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
 ---
 
-## 🚀 Project Workflow
-
-1. Load and explore the dataset
-2. Preprocess the data
-3. Train a **Logistic Regression** model
-4. Evaluate using metrics like accuracy and confusion matrix
-5. Visualize insights with Seaborn
-
----
-
 ## 📊 Exploratory Data Analysis
 
 We used Seaborn's `pairplot` to visualize feature relationships, colored by species:
